@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/realistic-motion-neon-lights-background_52683-65167.jpg?size=626&ext=jpg");
+    background-size: cover;
+    background-position: center;
+    }
+    
+    #app_name{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: aqua;
+    }
+    
+    #note{
+        color:chartreuse;
+        margin-bottom: 40px;
+    }
+    
+    #SONG_NAME1{
+    color: aqua;
+    }
+
+    canvas{
+        margin-top: 120px;
+    }
